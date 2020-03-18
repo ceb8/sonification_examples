@@ -1,0 +1,15 @@
+name: sonification
+
+channels:
+    - astropy
+    - defaults
+
+dependencies:
+    - python=3.8
+    - pip
+    - numpy=1.18.1
+    - astropy=4.0
+    pip:
+        - lightkurve
+        - pyo
+        - thinkx
