@@ -1,9 +1,7 @@
 name: sonification
-
 channels:
   - astropy
   - defaults
-
 dependencies:
   - python=3.8
   - pip
