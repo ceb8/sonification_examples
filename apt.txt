@@ -1,0 +1,5 @@
+libjack-jackd2-dev
+libportmidi-dev
+portaudio19-dev
+liblo-dev
+libsndfile-dev
